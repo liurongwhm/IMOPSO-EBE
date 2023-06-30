@@ -18,4 +18,4 @@ Please cite our papers if you find it useful for your research.
 
 3.We uploaded the test dataset to Google Cloud Drive : https://drive.google.com/drive/folders/1TKliiqTyWWCuu2QQGYX9JJv5oe1yR6rO?usp=sharing
 
-If the file cannot be downloaded, please contact "wangpr5@mail2.susy.edu.cn".
+If the file cannot be downloaded, please contact "wangpr5@mail2.sysu.edu.cn".
