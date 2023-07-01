@@ -1,0 +1,31 @@
+ENVI
+description = {
+  Create New File Result [Tue Sep 17 15:14:31 2019]}
+samples = 281
+lines   = 557
+bands   = 1
+header offset = 0
+file type = ENVI Classification
+data type = 1
+interleave = bsq
+sensor type = Unknown
+classes = 7
+class lookup = {
+   0,   0,   0, 255,   0,   0,   0, 255,   0,   0,   0, 255,  46, 139,  87,
+   0, 255, 255, 255, 165,   0}
+class names = {
+ Unclassified, 
+ EVF: Layer: LandCov_Vec_Berlin_Urban_Gradient_2009.shp (Record=1) [Red] 25231 points, 
+ EVF: Layer: LandCov_Vec_Berlin_Urban_Gradient_2009.shp (Record=2) [Green] 720 points, 
+ EVF: Layer: LandCov_Vec_Berlin_Urban_Gradient_2009.shp (Record=3) [Blue] 41728 points, 
+ EVF: Layer: LandCov_Vec_Berlin_Urban_Gradient_2009.shp (Record=4) [Sea Green] 34326 points, 
+ EVF: Layer: LandCov_Vec_Berlin_Urban_Gradient_2009.shp (Record=5) [Cyan] 3286 points, 
+ EVF: Layer: LandCov_Vec_Berlin_Urban_Gradient_2009.shp (Record=6) [Orange1] 40491 points}
+byte order = 0
+x start = 813
+y start = 942
+map info = {UTM, 1.000, 1.000, 383887.570, 5817662.750, 3.6000000000e+000, 3.6000000000e+000, 33, North, WGS-84, units=Meters}
+coordinate system string = {PROJCS["UTM_Zone_33N",GEOGCS["GCS_WGS_1984",DATUM["D_WGS_1984",SPHEROID["WGS_1984",6378137.0,298.257223563]],PRIMEM["Greenwich",0.0],UNIT["Degree",0.0174532925199433]],PROJECTION["Transverse_Mercator"],PARAMETER["False_Easting",500000.0],PARAMETER["False_Northing",0.0],PARAMETER["Central_Meridian",15.0],PARAMETER["Scale_Factor",0.9996],PARAMETER["Latitude_Of_Origin",0.0],UNIT["Meter",1.0]]}
+wavelength units = Unknown
+band names = {
+ Class Image from ROIs}
